@@ -30,6 +30,6 @@
 - Once it saved, it will store in their local storage.
 - This calendar is desktop and mobile compatible.
 
-## Image example
+## Image:
 
 ![Workday Scheduler Calendar](https://github.com/JohanBotes/jb-SMU05-WorkDayCalendar/blob/main/Workday%20Scheduler%20_%20Calendar.png)
