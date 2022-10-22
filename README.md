@@ -1,5 +1,6 @@
 # jb-SMU05-WorkDayCalendar
-A simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+- A simple calendar application that allows a user to save events for each hour of the day. 
+- It runs in the browser - tech stack used include HTML, CSS, JavaScript, BootStrap, JQuery.
 
 ## User Story
 - AS AN employee with a busy schedule
