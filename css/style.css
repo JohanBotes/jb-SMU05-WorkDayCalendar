@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1;
+  }
+
+  .display-3    {
+    font-size: 40px;
+  }
+  
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    /* border-bottom: 10px solid black; */
+  }
+
+  .container    {
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 60px;
+    border-top: 1px solid white;
+  }
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+    border-left: 1px dashed #000000;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+
+  .hour-last   {
+    border-bottom: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: white;
+  }
+  
+  .present {
+    background-color: #addaad;
+    color: white;
+  }
+  
+  .future {
+    background-color: #9cabda;
+    color: white;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(209, 74, 74);
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 30px;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  /*** OVERWRITE - MEDIA QUERY FOR TABLETS AND SMALLER  ***/
+  /* This will be applied on any screen 768px and bellow */
+  @media screen and (max-width: 768px), screen and (max-width: 575px) {
+    .row {
+      height: auto;
+      margin-top: 20px;
+    }
+  
+    .hour {
+      padding-right: 17%;
+    }
+  
+    .saveBtn {
+      border: 0;
+      border-radius: 0.25rem;
+      height: 50px;
+    }
+  
+    textarea {
+      min-height: 85px;
+      border: 0;
+    }
+  }
