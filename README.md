@@ -34,4 +34,4 @@
 
 ## Image:
 
-![Workday Scheduler Calendar](https://github.com/JohanBotes/jb-SMU05-WorkDayCalendar/blob/main/Workday%20Scheduler%20_%20Calendar.png)
+![Workday Scheduler Calendar](https://github.com/JohanBotes/jb-SMU05-WorkDayCalendar/blob/main/image/Workday%20Scheduler%20_%20Calendar.png)
