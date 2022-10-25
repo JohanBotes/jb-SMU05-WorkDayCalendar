@@ -1,6 +1,6 @@
 # SMU Bootcamp Module 5 - Workday Scheduler & Calendar
-- A simple calendar application that allows a user to save events for each hour of the day. 
-- It runs in the browser - tech stack used include HTML, CSS, JavaScript, BootStrap (Jumbotron), JQuery, Vanilla CSS changes to BootStrap.
+- A simple calendar application that allows a user to save events for each hour of the day based on a normal working day from 09:00 am to 05:00 pm. 
+- It runs in the browser - the technology stack used include HTML, CSS, JavaScript, BootStrap (Jumbotron), JQuery, Vanilla CSS changes to BootStrap.
 - Data entered in the calendar is saved in user local storage.
 - Live website URL: https://johanbotes.github.io/jb-SMU05-WorkDayCalendar/ 
 
